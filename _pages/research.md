@@ -35,7 +35,7 @@ a summary of my research:
                 </paperauthor>
                 <br>
                 <paperpublication>
-                    <em>ECCV</em>, 2024
+                    <strong><em>ECCV</em>, 2024</strong>
                 </paperpublication>
                 <br>
                 <p style="font-size:small" align="justify">
