@@ -50,6 +50,10 @@ and interests, such as research, data science, or AI engineering positions.
     <table id="table2" class="news" cellspacing="0" style="width:100%;border-spacing:0 1px;border-collapse:separate;margin-right:auto;margin-left:auto;overflow:hidden;">
     <tbody>
         <tr>
+            <td width="12%"><span class="date-cell">July '24</span></td>
+            <td width="90%">Our <a href="https://doi.org/10.48550/arXiv.2404.14634">paper</a> on human pose estimation with cross-view and temporal cues has been accepted to ECCV 2024.</td>
+        </tr>
+        <tr>
             <td width="12%"><span class="date-cell">June '24</span></td>
             <td width="90%">Happy to announce that I have successfully obtained my Ph.D. degree. <a href="https://hdl.handle.net/1974/33138">Thesis</a> on "Estimating Human Pose from Pressure and Vision Data".</td>
         </tr>
@@ -61,7 +65,7 @@ and interests, such as research, data science, or AI engineering positions.
             <td width="12%"><span class="date-cell">Apr '24</span></td>
             <td width="90%">Check out our new <a href="https://doi.org/10.48550/arXiv.2404.12625">paper</a> on 3D human body shape and pose estimation estimation.</td>
         </tr>
-        <tr>
+        <tr class="paper-info">
             <td width="12%"><span class="date-cell">May '23</span></td>
             <td width="90%">Secured $30,000 research grant from <a href="https://www.mitacs.ca/">Mitacs</a> in support of 8 months of additional research at <a href="https://toronto.ubisoft.com/">Ubisoft Toronto</a>.</td>
         </tr>
