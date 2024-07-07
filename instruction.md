@@ -1,6 +1,13 @@
-use wsl on windows (if not running on linux)
-install ruby and jekyll (from the website instructions)
-continue here if you wish
+
+# Quick Setup
+
+Use wsl2 on windows (if not running on linux). Then install ruby and
+jekyll (from the website instructions) and continue here if you wish:
+
+'''bash
+sudo apt-get update
+sudo apt-get install ruby ruby-dev
+sudo gem install bundler
 
 # Update
 bundle update
@@ -8,19 +15,21 @@ bundle update
 # Developing theme
 bundle install
 
-# Serve locally
-## once
+# Serve locally (run once)
 gem update --system
 ruby setup.rb <- rubygems.org
 gem install jekyll bundler
 
-## after changes
+# Serve locally (run everytime)
 bundle
 bundle update
 bundle exec jekyll serve --livereload
+'''
+
+# More info on some features
 
 dark mode:
-    https://github.com/mmistakes/minimal-mistakes/discussions/2033
+- https://github.com/mmistakes/minimal-mistakes/discussions/2033
 
 Nice project pages:
 - https://pratulsrinivasan.github.io/lighthouse/

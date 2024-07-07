@@ -42,7 +42,7 @@ a summary of my research:
                     We present an uncertainty-aware 3D pose estimation method through maximizing the likelihood of 3D
                     keypoints based on the differentiable distributions of multi-view 2D keypoints.
                 </p>
-                <a href="https://doi.org/10.48550/arXiv.2404.14634">[Paper]</a> <a href="https://vdavoodnia.github.io/projects/upose3d">[Project]</a> <!-- Replace with actual GitHub repo link -->
+                <a href="https://doi.org/10.48550/arXiv.2404.14634">[Paper]</a> <a href="/projects/upose3d">[Project]</a> <!-- Replace with actual GitHub repo link -->
             </td>
         </tr>
         <tr class="paper-info">
@@ -68,7 +68,7 @@ a summary of my research:
                 <p style="font-size:small" align="justify">
                     We present SkelFormer, an inverse-kinematic regression framework for estimating human pose and shape from videos.
                 </p>
-                <a href="https://doi.org/10.48550/arXiv.2404.14634">[Paper]</a> <a href="https://vdavoodnia.github.io/projects/skelformer">[Project]</a> <!-- Replace with actual GitHub repo link -->
+                <a href="https://doi.org/10.48550/arXiv.2404.14634">[Paper]</a> <a href="/projects/skelformer">[Project]</a> <!-- Replace with actual GitHub repo link -->
             </td>
         </tr>
         <tr class="paper-info">

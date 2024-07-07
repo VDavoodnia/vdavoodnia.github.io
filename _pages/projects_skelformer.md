@@ -15,3 +15,7 @@ description: "SkelFormer: markerless 3D pose and shape estimation using skeletal
 
 This page is awaiting the paper's publication! 
 {: style="font-size: 200%; text-align: center;"}
+
+
+
+
