@@ -32,6 +32,8 @@ script_name: "skelformer"
 
 <html>
 <body>
+<!-- Some margin. -->
+<div style="height: 100px;">&nbsp;</div>
 
 <!-- Banner. -->
 <section class="hero banner">

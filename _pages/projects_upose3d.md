@@ -29,6 +29,8 @@ script_name: "upose3d"
 
 <html>
 <body>
+<!-- Some margin. -->
+<div style="height: 100px;">&nbsp;</div>
 
 <!-- Banner. -->
 <section class="hero banner">
