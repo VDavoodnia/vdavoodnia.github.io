@@ -113,12 +113,9 @@ script_name: "skelformer"
 <!-- Demo Image. -->
 <section class="hero is-light is-small">
   <div class="hero-body">
-    <div class="container is-max-desktop ">
-    <div class="columns is-centered is-full-width ">
-      <div class="column is-full-width">
-        <h3 class="title is-3 has-text-centered">Waiting on paper acceptance.</h3>
-      </div>
-      <div class="column is-full-width">
+    <div class="container is-max-desktop has-text-centered">
+      <h3 class="title is-3">Waiting on paper acceptance.</h3>
+      <div class="columns is-centered has-text-centered">
         <div class="column is-four-fifths">
       <div id="results-carousel" class="carousel results-carousel">
         <div class="item item-t2i0">

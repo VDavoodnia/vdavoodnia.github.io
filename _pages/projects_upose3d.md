@@ -115,7 +115,7 @@ script_name: "upose3d"
   <div class="hero-body">
     <div class="container is-max-desktop has-text-centered">
     <div class="columns is-centered has-text-centered">
-    <div class="column is-four-fifths">
+      <div class="column is-four-fifths">
       <div id="results-carousel" class="carousel results-carousel">
         <video autoplay="" controls="" muted="" loop="" playsinline="" height="100%">
             <source src="./static/images/demo_cmu.mp4" type="video/mp4">
