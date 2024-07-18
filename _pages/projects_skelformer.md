@@ -2,8 +2,7 @@
 layout: standalone
 title: "SkelFormer"
 permalink: /projects/skelformer/
-description: "Project page for SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers
-."
+description: "SkelFormer: Markerless 3D Pose and Shape Estimation using Skeletal Transformers."
 head_defer_scripts:
   - "/projects/skelformer/static/js/fontawesome.all.min.js"
 head_scripts:

@@ -2,7 +2,7 @@
 layout: standalone
 title: "UPose3D"
 permalink: /projects/upose3d/
-description: "Project page for UPose3D: uncertainty-aware 3D human pose estimation with cross-view and temporal cues."
+description: "UPose3D: uncertainty-aware 3D human pose estimation with cross-view and temporal cues."
 head_defer_scripts:
   - "/projects/upose3d/static/js/fontawesome.all.min.js"
 head_scripts:
