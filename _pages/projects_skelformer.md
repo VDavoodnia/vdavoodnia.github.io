@@ -59,9 +59,11 @@ script_name: "skelformer"
         <span class="author-block"><sup>1</sup><a href="https://www.queensu.ca/">Queen's University</a></span>
         <span class="author-block"><sup>2</sup><a href="https://www.ubisoft.com/en-us/studio/laforge">Ubisoft LaForge</a></span>
       </div>
-      <div class="is-size-3 publication-venue">
-        in ECCV 2024
-      </div>
+      <!--
+        <div class="is-size-3 publication-venue">
+                in ECCV 2024
+              </div>
+      -->
       <div class="column has-text-centered">
         <div class="publication-links">
           <span class="link-block">
