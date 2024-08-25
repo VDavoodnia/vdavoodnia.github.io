@@ -59,20 +59,27 @@ script_name: "skelformer"
         <span class="author-block"><sup>1</sup><a href="https://www.queensu.ca/">Queen's University</a></span>
         <span class="author-block"><sup>2</sup><a href="https://www.ubisoft.com/en-us/studio/laforge">Ubisoft LaForge</a></span>
       </div>
-      <!--
         <div class="is-size-3 publication-venue">
-                in ECCV 2024
-              </div>
-      -->
+            in ECCV 2024 Workshops on: Computer Vision For Videogames (CV2) 
+          </div>
       <div class="column has-text-centered">
         <div class="publication-links">
           <span class="link-block">
-            <a href="./static/paper/skelformer_arxiv.pdf"
+            <a href="./static/paper/SkelFormer_ECCV_2024_CV2_Workshops_Main.pdf"
                class="external-link button is-normal is-rounded is-dark">
               <span class="icon">
                   <i class="fas fa-file-pdf"></i>
               </span>
               <span>Paper</span>
+            </a>
+          </span>
+          <span class="link-block">
+            <a href="./static/paper/SkelFormer_ECCV_2024_CV2_Workshops_Supp.pdf"
+               class="external-link button is-normal is-rounded is-dark">
+              <span class="icon">
+                  <i class="fas fa-file-pdf"></i>
+              </span>
+              <span>Supplementary Materials</span>
             </a>
           </span>
           <span class="link-block">
