@@ -24,6 +24,7 @@ stylesheet_links:
   - "/projects/upose3d/static/css/image_card_fader.css"
   - "/projects/upose3d/static/css/image_card_slider.css"
 script_name: "upose3d"
+disallow_robots: false
 ---
 
 

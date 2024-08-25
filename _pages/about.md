@@ -5,6 +5,7 @@ permalink: /about/
 classes: wide
 share: true
 description: "Find out more about Vandad Davoodnia, Ph.D. on his personal website. An enthusiastic machine learning scientist fascinated by natural language processing, computer vision, and their applications for virtual worlds."
+disallow_robots: false
 ---
 
 THIS SHOULD NOT BE SHOWN TO THE USER... IT SHOULD REDIRECT TO HOME PAGE

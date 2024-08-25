@@ -5,6 +5,7 @@ permalink: /cv/
 classes: 
 cv: 
 description: "Find out more about Vandad Davoodnia (Ph.D.) on his personal website. View his profile, resume, and curriculum vitae. He is open to discussing potential roles that align with his skills and interests, such as research, data science, or AI engineering positions."
+disallow_robots: false
 ---
 
 <html lang="en">

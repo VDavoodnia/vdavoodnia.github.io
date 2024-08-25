@@ -7,6 +7,7 @@ redirect_from:
   - /projects.md
 classes: wide
 description: "Find out more about Vandad Davoodnia (Ph.D.) and his research on his personal website. He is interested in computer vision, deep learning, generative AI, and virtual worlds. His most recent research is on modeling virtual humans using cameras."
+disallow_robots: false
 ---
 
 I am interested in computer vision, deep learning, generative AI, and virtual worlds.
@@ -65,7 +66,7 @@ a summary of my research:
                 </paperauthor>
                 <br>
                 <paperpublication>
-                    <em>arXiv</em>, 2024
+                    <em>ECCV Workshop</em>, 2024
                 </paperpublication>
                 <br>
                 <p style="font-size:small" align="justify">
