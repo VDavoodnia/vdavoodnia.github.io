@@ -182,14 +182,14 @@ disallow_robots: false
     <div class="columns is-centered is-full-width ">
       <div class="column is-full-width">
         <h2 class="title is-3 has-text-centered" >Technical Video</h2>
-        <!-- <div class="content publication-video">
-            <iframe src="https://www.youtube.com/embed/KsiZpUFPqIU" allowfullscreen style="top:0;left:0;width:100%;height:100%;"></iframe>
-        </div> -->
         <div class="content publication-video">
+            <iframe src="https://www.youtube.com/embed/1e7fVKNOE5g" allowfullscreen style="top:0;left:0;width:100%;height:100%;"></iframe>
+        </div>
+        <!-- <div class="content publication-video">
         <video autoplay="" controls="" muted="" loop="" playsinline="" height="100%">
             <source src="./static/images/2418-video.mp4" type="video/mp4">
         </video>
-        </div>
+        </div> -->
       </div>
     </div>
     </div>
