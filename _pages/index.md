@@ -33,12 +33,14 @@ As a software developer, I collaborated with teams of engineers and internationa
 to create mobile and desktop applications using Python, Matlab, Java, and C++. Furthermore, as a research scientist, 
 I published several papers and gained valuable experience in signal processing, data science, and statistics.
 
+<!-- Temporarily hidden at Vandad's request (2026-10-10); un-comment to restore
 <p class="about-me-job">
 I am actively seeking opportunities in the industrial research and development 
 sectors, particularly in roles that allow me to apply my expertise on 
 Artificial Intelligence. I am open to discussing potential roles that align with my skills 
 and interests, such as research, data science, or AI engineering positions.
 </p>
+-->
 
 
 
